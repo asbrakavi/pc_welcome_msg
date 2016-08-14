@@ -3,7 +3,7 @@ Welcome message that is given on system startup
 
 Script code to make the computer greet you!
 
-Steps:
+Steps:<br>
 1. save the welcome file with the extension .vbs 
 
 2. copy this file and paste it in the location specified in path.txt file <this is for windows 7>
